@@ -1003,6 +1003,7 @@ body {
   z-index: 10;
   text-align: center;
   animation: popUpBackground 4s ease-out forwards;
+  overflow: visible;
 }
 
 @keyframes popUpBackground {
